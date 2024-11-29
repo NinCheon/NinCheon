@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **NinCheon/NinCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/nin_cheon?theme=light&posts=3)
