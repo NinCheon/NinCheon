@@ -5,6 +5,7 @@
 </div>
 
 <p align="center">
+  <a href="mailto:rkddudwo132@gist.ac.kr"><img src="https://img.shields.io/badge/Email-rkddudwo132@gist.ac.kr-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@nin_cheon/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:rkddudwo132@gist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
