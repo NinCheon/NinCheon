@@ -1,10 +1,8 @@
 # 👋 안녕하세요, 가치를 찾아내는 데이터 분석가 강영재입니다.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Data%20Analyst%20Youngjae&fontSize=50&animation=fadeIn" alt="header" />
-
   <br/>
-
+  
   <img src="https://velog-github-badge.vercel.app/badge/nin_cheon?theme=light&posts=3" alt="Velog Stats" />
 
   <br/><br/>
@@ -12,7 +10,8 @@
   <a href="mailto:rkddudwo132@gist.ac.kr"><img src="https://img.shields.io/badge/Email-rkddudwo132@gist.ac.kr-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@nin_cheon/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://github.com/NinCheon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNinCheon&count_bg=%2379C83D&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+  
+  <br/><br/>
 </div>
 
 ---
